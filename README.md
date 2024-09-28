@@ -1,4 +1,4 @@
-# esp32-iot-provision
+# esp32-softap-provision
 An ESP32 Arduino example demonstrating using stored Preferences, a builtin AP and Webserver to perform initial setup
 
 Hopefully this example code helps you if you want to:
