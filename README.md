@@ -1,4 +1,4 @@
-# esp32-iot-provision
+# esp32-softap-provision
 An ESP32 Arduino example demonstrating using stored Preferences, a builtin AP and Webserver to perform initial setup
 
 Hopefully this example code helps you if you want to:
@@ -14,4 +14,5 @@ That's exactly what this code does. It also (as an example) lets you specify a '
 This code will advertise the devicename using multicastdns once connected so you should be able to ping '<devicename>.local'
 
 TODO: Add WiFI scanning instead of manual SSID entry
+
 TODO: Add ability to completely erase preferences
