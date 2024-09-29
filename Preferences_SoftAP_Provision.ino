@@ -51,7 +51,7 @@ void handleRoot() {
   <style>\
   body { background-color: #cccccc; font-family: Arial, Helvetica, Sans-Serif; Color: #000088; margin: 5; padding: 0; }\
   label { display: block; margin-bottom: 8px; }\
-  input { width: 70%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 16px; }\
+  input { width: 70%%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 16px; }\
   </style>\
   </head>\
   <body>\
